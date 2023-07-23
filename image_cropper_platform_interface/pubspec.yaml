@@ -2,6 +2,7 @@ name: image_cropper_platform_interface
 description: A common platform interface for the image_cropper plugin.
 repository: https://github.com/hnvn/flutter_image_cropper
 version: 5.0.0
+publish_to: none
 
 environment:
   sdk: '>=2.18.2 <3.0.0'
